@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.odd-style
+{
+    background-color: pink;
+    font-family: Verdana, dejaVu Sans, sans-serif;
+}
+#element-two
+{
+    background-color: transparent;
+    font-size: 36px;
+    color: blue;
+}
+#element-four
+{
+    background-color: rgb(27, 235, 27);
+    size: 24px;
+    font-weight: bold;
+}
+.adjust-font-size
+{
+    font-size: 24px;
+}
